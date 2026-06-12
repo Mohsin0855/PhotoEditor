@@ -23,7 +23,14 @@
             <option value="$PROJECT_DIR$/features/filters" />
             <option value="$PROJECT_DIR$/features/glitch" />
             <option value="$PROJECT_DIR$/features/home" />
+            <option value="$PROJECT_DIR$/features/language" />
+            <option value="$PROJECT_DIR$/features/makeup" />
+            <option value="$PROJECT_DIR$/features/onboard" />
             <option value="$PROJECT_DIR$/features/ratios" />
+            <option value="$PROJECT_DIR$/features/reshape" />
+            <option value="$PROJECT_DIR$/features/retouch" />
+            <option value="$PROJECT_DIR$/features/settings" />
+            <option value="$PROJECT_DIR$/features/splash" />
             <option value="$PROJECT_DIR$/features/stickers" />
             <option value="$PROJECT_DIR$/features/text-overlay" />
             <option value="$PROJECT_DIR$/features/transformation" />
