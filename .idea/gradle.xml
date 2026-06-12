@@ -9,6 +9,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/adjust" />
+            <option value="$PROJECT_DIR$/features/background-remover" />
+            <option value="$PROJECT_DIR$/features/blur" />
+            <option value="$PROJECT_DIR$/features/collage" />
+            <option value="$PROJECT_DIR$/features/draw" />
+            <option value="$PROJECT_DIR$/features/editor" />
+            <option value="$PROJECT_DIR$/features/filters" />
+            <option value="$PROJECT_DIR$/features/glitch" />
+            <option value="$PROJECT_DIR$/features/home" />
+            <option value="$PROJECT_DIR$/features/ratios" />
+            <option value="$PROJECT_DIR$/features/stickers" />
+            <option value="$PROJECT_DIR$/features/text-overlay" />
+            <option value="$PROJECT_DIR$/features/transformation" />
           </set>
         </option>
       </GradleProjectSettings>
